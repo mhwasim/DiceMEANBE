@@ -1,0 +1,22 @@
+[
+    {
+        "brand": "LEVIS",
+        "color": "BLUE",
+        "size": "10"
+    },
+    {
+        "brand": "LEVIS",
+        "color": "BLACK",
+        "size": "12"
+    },
+    {
+        "brand": "DENIM",
+        "color": "BLACK",
+        "size": "14"
+    },
+    {
+        "brand": "DENIM",
+        "color": "BLUE",
+        "size": "16"
+    }
+]
